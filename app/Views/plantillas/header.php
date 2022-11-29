@@ -82,8 +82,8 @@
       <ul class="nav nav-pills">
         <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Principal</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Novedades</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Comunidad</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Pedidos</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Reservaciones</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Sobre Nosostros</a></li>
       </ul>
     </header>
