@@ -35,7 +35,7 @@
       <th scope="row">1</th>
       <td>Parvoviruz</td>
       <td>1 cada año</td>
-      <td>8 a 16 semanas</td>
+      <td>8 a 18 semanas</td>
       <td>$8.00</td>
       <td>2022/09/25</td>
     </tr>
