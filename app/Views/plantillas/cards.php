@@ -34,11 +34,11 @@
     </div>
   </div>
   <div class="card">
-    <img src="https://images.pexels.com/photos/7470754/pexels-photo-7470754.jpeg?cs=srgb&dl=pexels-mikhail-nilov-7470754.jpg&fm=jpg" class="card-img-top" alt="...">
+    <img src="https://images.pexels.com/photos/110472/pexels-photo-110472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Controles y servicios de quirofano:</h5>
-      <p class="card-text">Si quieres agendar una cita para el servicio de quirofano puedes revisar los costos en esta seccion.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Servicio de Bar:</h5>
+      <p class="card-text">Disfruta de cocteles, bebidas tropicales y mas. Hecha un vistaso a nuestro selecto catalogo.</p>
+      <p class="card-text"><small class="text-muted">Ultima actualizacion  hace 3 horas</small></p>
       <a href="<?php echo base_url('veterinaria/costos');?>" class="btn btn-success">Ver mas</a>
     </div>
   </div>
