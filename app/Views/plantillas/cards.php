@@ -16,20 +16,20 @@
 
   <div class="card-group">
   <div class="card">
-    <img src="https://images.pexels.com/photos/8498532/pexels-photo-8498532.jpeg?cs=srgb&dl=pexels-yaroslav-shuraev-8498532.jpg&fm=jpg" class="card-img-top" alt="...">
+    <img src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Centro de vacunacion:</h5>
-      <p class="card-text">Contamos con todas la vacunas para la prevencion de enfermedads de tu mascota. hecha un vistaoz a precios y dosis aqui.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Comidas Tradicionales:</h5>
+      <p class="card-text">Deleitate con los mejores platos del ecuador en nuestra seccion de platos nacionales</p>
+      <p class="card-text"><small class="text-muted">Ultima actualizacion hace 5 minutos</small></p>
       <a href="<?php echo base_url('veterinaria/vacunas');?>" class="btn btn-success">Ver mas</a>
     </div>
   </div>
   <div class="card">
-    <img src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-photography-1108099.jpg&fm=jpg" class="card-img-top" alt="...">
+    <img src="https://images.pexels.com/photos/8211309/pexels-photo-8211309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Adopta a un pequeño compañero:</h5>
-      <p class="card-text">No hace falta gastar mucho para tener la mejor compañero posible. Hecha un vistazo a los recien llegados.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Servicio de panaderia:</h5>
+      <p class="card-text">Pasteles, cupcakes, postres y mas. Escoje entre nuestra selecta lista de productos</p>
+      <p class="card-text"><small class="text-muted">Ultima actualizacion  hace 3 horas</small></p>
       <a href="<?php echo base_url('veterinaria/adopcion');?>"class="btn btn-success">Ver mas</a>
     </div>
   </div>
