@@ -20,21 +20,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="3000">
-      <img src="https://images.pexels.com/photos/6853515/pexels-photo-6853515.jpeg?cs=srgb&dl=pexels-cottonbro-6853515.jpg&fm=jpg" class="d-block w-100" alt="..." height="540">
+      <img src="https://www.pexels.com/es-es/foto/persona-que-usa-la-maquina-de-cafe-espresso-2775827/" class="d-block w-100" alt="..." height="540">
       <div class="carousel-caption d-none d-md-block">
         <h5>Cuidalos desde le primer dia</h5>
         <p>Las vacunas a temprana edad podrian ayudar a evitar problemas despues, por ello revisa la opcion de vacunas y enterate de mas.</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="3000">
-      <img src="https://images.pexels.com/photos/8057550/pexels-photo-8057550.jpeg?cs=srgb&dl=pexels-kampus-production-8057550.jpg&fm=jpg" class="d-block w-100" alt="..." height="540">
+      <img src="https://images.pexels.com/photos/2575835/pexels-photo-2575835.jpeg?auto=compress&cs=tinysrgb&w=600" class="d-block w-100" alt="..." height="540">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ayudalos en su desarrollo temprano</h5>
         <p>Dales lo mas adecuado para su desarrollo, eso y mucho mas en nuestra seccion de productos</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://images.pexels.com/photos/9989459/pexels-photo-9989459.jpeg?cs=srgb&dl=pexels-enric-cruz-l%C3%B3pez-9989459.jpg&fm=jpg" class="d-block w-100" alt="..." height="540">
+      <img src="https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="d-block w-100" alt="..." height="540">
       <div class="carousel-caption d-none d-md-block">
         <h5>Si no los cuidas, no te los lleves</h5>
         <p>Unete a nuestra campaña de concientisacion contra el abandono de animales en las calles para evitar tragicos accidentes</p>
