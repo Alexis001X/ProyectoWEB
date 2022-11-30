@@ -29,7 +29,7 @@
   <div class="col-12">
     <label for="Servicio2" class="form-label">Otro servicio:</label>
     <select class="form-select" aria-label="Default select example" id="Servicio2" name="Servicio2" required> 
-  <option selected>Servicios adicionales:</option>
+  <option selected>Requisitos opcionales:</option>
   <option value="Peluqueria">Peluqueria</option>
   <option value="Aseo">Aseo</option>
   <option value="Croquetas">Croquetas</option>
