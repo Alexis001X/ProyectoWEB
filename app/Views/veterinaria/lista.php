@@ -4,8 +4,8 @@
 ?>
 </pre>
 <div class="container px-4 py-5" id="featured-3">
-    <h2 class="pb-2 border-bottom">Servico de registro de citas:</h2>
-    <h4>Agenda una cita con nosotros desde la comodidad de tu casa y pagas en cuando recibas tu atencions en nuestro centro</h4>
+    <h2 class="pb-2 border-bottom">Servicio de Reservaciones online:</h2>
+    <h4>Puedes reservar desde la comodidad de tu casa, conoce nuestras fechas disponibles:</h4>
 <a href="<?php echo base_url()?>/veterinaria/crear"><button class="btn btn-success">Crea un nuevo registro</button></a>
 
 <table class="table table-striped">
