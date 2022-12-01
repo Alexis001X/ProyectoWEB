@@ -12,11 +12,11 @@
     <thead>
         <tr>
         <td> ID </td>
-        <td> Nombre </td>
-        <td> Especie - Tipo</td>
-        <td> Servicio </td>
-        <td> Servicios adicionales </td>
-        <td> Dueño </td>
+        <td> Salas</td>
+        <td> Horario</td>
+        <td> Disponibilidad </td>
+        <td> Servicio de comida </td>
+        <td> Servicio de licores </td>
         <td> Total a pagar </td>
         </tr> 
     </thead>
