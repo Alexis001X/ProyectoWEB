@@ -81,9 +81,9 @@
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>PIF</td>
-      <td>al año</td>
-      <td>22 semanas</td>
+      <td>Asado de cordero</td>
+      <td>Grande</td>
+      <td>10</td>
       <td>12.00$</td>
       <td>Agotada</td>
     </tr>
