@@ -11,14 +11,14 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>Centro de adopcion</title>
+    <title>Postres</title>
     <div class="container px-4 py-5" id="featured-3">
-    <h2 class="pb-2 border-bottom">Adopcion de mascotas:</h2>
-    <h3>Revisa nuestra tabla y agenda citas en las proximas ferias de vacunacion</h3>
+    <h2 class="pb-2 border-bottom">Peticion de Postres:</h2>
+    <h3>Revisa nuestra tabla y pida un postre a su buen Gusto</h3>
   </head>
   <body>
   <table class="table table-warning table-striped">
-  <caption>Tabla de mascotas para proceso de adopcion:</caption>
+  <caption>Tabla de postres para el pedido:</caption>
   <thead>
     <tr>
       <th scope="col">ID</th>
