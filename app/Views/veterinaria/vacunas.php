@@ -11,15 +11,15 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>Centro de vacunacion</title>
+    <title>Centro del restaurante</title>
   </head>
   <div class="container px-4 py-5" id="featured-3">
-    <h2 class="pb-2 border-bottom">Centro de vacunacion:</h2>
-    <h3>Revisa nuestra tabla y agenda citas en las proximas ferias de vacunacion</h3>
+    <h2 class="pb-2 border-bottom">Centro del restaurante:</h2>
+    <h3>Revisa nuestra tabla y reservas para mas veneficios del cliente</h3>
   <body>
 
   <table class="table table-success table-striped">
-  <caption>Tabla de platos tipicos:</caption>
+  <caption class="navbar navbar-dark bg-primary">Tabla de platos tipicos:</caption>
   <thead>
     <tr>
       <th scope="col">#</th>
