@@ -33,51 +33,51 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Chucgucaras</td>
-      <td>1 a pequeño</td>
-      <td>2 a 4 mediano</td>
+      <td>Chuchucaras</td>
+      <td> pequeño</td>
+      <td>6</td>
       <td>$5.00</td>
       <td>2022/11/28</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Distemper</td>
-      <td>1 cada año</td>
-      <td>8 a 16 semanas</td>
-      <td>$9.00</td>
-      <td>2022/09/10</td>
+      <td>llapingachos</td>
+      <td>mediano</td>
+      <td>3</td>
+      <td>$2.00</td>
+      <td>2022/11/30</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Rabia</td>
-      <td>al año(obligatoria)</td>
-      <td>14 semanas</td>
-      <td>gratis</td>
-      <td>2022/09/10</td>
+      <td>Encebollado</td>
+      <td>Mixto</td>
+      <td>1</td>
+      <td>$2.00</td>
+      <td>2022/12/10</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Polivalente</td>
-      <td>unica dosis</td>
-      <td>2 a 3 semanas</td>
+      <td>ceviche</td>
+      <td>pulpo</td>
+      <td>9</td>
       <td>5.00$</td>
-      <td>Disponible</td>
+      <td>Reservado</td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>Refuerzos</td>
-      <td>al año(obligatorias)</td>
-      <td>14 semanas</td>
-      <td>25.00$</td>
-      <td>2022/09/10</td>
+      <td>Seco de pollo</td>
+      <td>Normal</td>
+      <td>1</td>
+      <td>2.00$</td>
+      <td>2022/12/11</td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>Triple virica</td>
-      <td>unica dosis</td>
-      <td>2 a 4 semanas</td>
-      <td>16.00$</td>
-      <td>Disponible</td>
+      <td>Tripa mishqui</td>
+      <td>Mixto</td>
+      <td>2</td>
+      <td>3.00$</td>
+      <td>Reservado</td>
     </tr>
     <tr>
       <th scope="row">7</th>
