@@ -33,11 +33,11 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Parvoviruz</td>
-      <td>1 cada año</td>
-      <td>8 a 18 semanas</td>
-      <td>$8.00</td>
-      <td>2022/09/25</td>
+      <td>Chucgucaras</td>
+      <td>1 a pequeño</td>
+      <td>2 a 4 mediano</td>
+      <td>$5.00</td>
+      <td>2022/11/28</td>
     </tr>
     <tr>
       <th scope="row">2</th>
