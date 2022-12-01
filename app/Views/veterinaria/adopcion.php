@@ -38,7 +38,7 @@
       <td>Mediano</td>
       <td>1</td>
       <td>Caliente</td>
-      <td>5.50</td>
+      <td>$5.50</td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -47,53 +47,36 @@
       <td>Pequeño en cono</td>
       <td>2</td>
       <td>Con Grajeas</td>
-      <td>2.30</td>
+      <td>$2.30</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Rex</td>
-      <td>Perro</td>
-      <td>Cavalier</td>
-      <td>Macho</td>
-      <td>2 años</td>
-      <td>Sector Chillogallo, Tienda "Al costo"</td>
+      <td>Postre</td>
+      <td>Bocaditos</td>
+      <td>Mediano</td>
+      <td>3</td>
+      <td>-----</td>
+      <td>$1.50</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Gary</td>
-      <td>gato</td>
-      <td>Siames</td>
-      <td>Macho</td>
-      <td>6 meses</td>
-      <td>Sector la basilica, casa 25</td>
+      <td>Cafe</td>
+      <td>Americano</td>
+      <td>Grande</td>
+      <td>1</td>
+      <td>Caliente</td>
+      <td>$1.50</td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>Gunter</td>
-      <td>Canario</td>
-      <td>-----</td>
-      <td>Macho</td>
-      <td>1 mes</td>
-      <td>Sector guamani, tienda "Lovepet"</td>
+      <td>Cafe</td>
+      <td>Capuchino</td>
+      <td>Pequeño</td>
+      <td>1</td>
+      <td>Caliente</td>
+      <td>$3</td>
     </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>Bonnery</td>
-      <td>Conejo</td>
-      <td>Albino</td>
-      <td>Hembra</td>
-      <td>3 meses</td>
-      <td>Sector tambillo, Escuela "fe y alegria"</td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>Chems</td>
-      <td>Perro</td>
-      <td>Shiba inu</td>
-      <td>Hembra</td>
-      <td>1 año</td>
-      <td>Sector la floresta, papeleria "Compured"</td>
-    </tr>
+    
   </tbody>
   
 </table>
