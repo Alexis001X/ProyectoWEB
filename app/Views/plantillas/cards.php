@@ -30,7 +30,7 @@
       <h5 class="card-title">Servicio de panaderia:</h5>
       <p class="card-text">Pasteles, cupcakes, postres y mas. Escoje entre nuestra selecta lista de productos</p>
       <p class="card-text"><small class="text-muted">Ultima actualizacion  hace 3 horas</small></p>
-      <a href="<?php echo base_url('veterinaria/adopcion');?>"class="btn btn-success">Ver mas</a>
+      <a href="<?php echo base_url('veterinaria/adopcion');?>"class="btn btn-success">Mas info</a>
     </div>
   </div>
   <div class="card">
@@ -39,7 +39,7 @@
       <h5 class="card-title">Servicio de Bar:</h5>
       <p class="card-text">Disfruta de cocteles, bebidas tropicales y mas. Hecha un vistaso a nuestro selecto catalogo.</p>
       <p class="card-text"><small class="text-muted">Ultima actualizacion  hace 3 horas</small></p>
-      <a href="<?php echo base_url('veterinaria/costos');?>" class="btn btn-success">Ver mas</a>
+      <a href="<?php echo base_url('veterinaria/costos');?>" class="btn btn-success">Mas info</a>
     </div>
   </div>
 </div>
