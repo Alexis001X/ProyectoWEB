@@ -19,15 +19,15 @@
   <body>
 
   <table class="table table-success table-striped">
-  <caption>Tabla de vacunas y dosis:</caption>
+  <caption>Tabla de platos tipicos:</caption>
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Vacunas</th>
-      <th scope="col">Dosis</th>
-      <th scope="col">Edades</th>
-      <th scope="col">Valor</th>
-      <th scope="col">Disponibilidad</th>
+      <th scope="col">COMIDAS TIPICAS </th>
+      <th scope="col">Plato</th>
+      <th scope="col">Numero de menu</th>
+      <th scope="col">Costo</th>
+      <th scope="col">Reservas</th>
     </tr>
   </thead>
   <tbody>
