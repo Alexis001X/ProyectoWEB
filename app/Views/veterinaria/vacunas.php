@@ -18,10 +18,10 @@
     <h3>Revisa nuestra tabla y reservas para mas veneficios del cliente</h3>
   <body>
 
-  <table class="table table-success table-striped">
+  <table class="table table-responsive table-bordered">
   <caption class="navbar navbar-dark bg-primary">Tabla de platos tipicos:</caption>
   <thead>
-    <tr>
+    <tr class="table-success">
       <th scope="col">#</th>
       <th scope="col">COMIDAS TIPICAS </th>
       <th scope="col">Plato</th>
@@ -31,7 +31,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="table-success">
       <th scope="row">1</th>
       <td>Chuchucaras</td>
       <td> pequeño</td>
@@ -39,7 +39,7 @@
       <td>$5.00</td>
       <td>2022/11/28</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">2</th>
       <td>llapingachos</td>
       <td>mediano</td>
@@ -47,7 +47,7 @@
       <td>$2.00</td>
       <td>2022/11/30</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">3</th>
       <td>Encebollado</td>
       <td>Mixto</td>
@@ -55,7 +55,7 @@
       <td>$2.00</td>
       <td>2022/12/10</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">4</th>
       <td>ceviche</td>
       <td>pulpo</td>
@@ -63,7 +63,7 @@
       <td>5.00$</td>
       <td>Reservado</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">5</th>
       <td>Seco de pollo</td>
       <td>Normal</td>
@@ -71,7 +71,7 @@
       <td>2.00$</td>
       <td>2022/12/11</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">6</th>
       <td>Tripa mishqui</td>
       <td>Mixto</td>
@@ -79,7 +79,7 @@
       <td>3.00$</td>
       <td>Reservado</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">7</th>
       <td>Asado de cordero</td>
       <td>Grande</td>
