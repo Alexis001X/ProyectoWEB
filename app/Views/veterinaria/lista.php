@@ -4,19 +4,19 @@
 ?>
 </pre>
 <div class="container px-4 py-5" id="featured-3">
-    <h2 class="pb-2 border-bottom">Servico de registro de citas:</h2>
-    <h4>Agenda una cita con nosotros desde la comodidad de tu casa y pagas en cuando recibas tu atencions en nuestro centro</h4>
+    <h2 class="pb-2 border-bottom">Servicio de Reservaciones online:</h2>
+    <h4>Puedes reservar desde la comodidad de tu casa, conoce nuestras fechas disponibles:</h4>
 <a href="<?php echo base_url()?>/veterinaria/crear"><button class="btn btn-success">Crea un nuevo registro</button></a>
 
 <table class="table table-striped">
     <thead>
         <tr>
         <td> ID </td>
-        <td> Nombre </td>
-        <td> Especie - Tipo</td>
-        <td> Servicio </td>
-        <td> Servicios adicionales </td>
-        <td> Dueño </td>
+        <td> Salas</td>
+        <td> Horario</td>
+        <td> Disponibilidad </td>
+        <td> Servicio de comida </td>
+        <td> Servicio de licores </td>
         <td> Total a pagar </td>
         </tr> 
     </thead>
