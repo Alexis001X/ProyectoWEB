@@ -11,79 +11,79 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-    <title>Centro de vacunacion</title>
+    <title>Centro del restaurante</title>
   </head>
   <div class="container px-4 py-5" id="featured-3">
-    <h2 class="pb-2 border-bottom">Centro de vacunacion:</h2>
-    <h3>Revisa nuestra tabla y agenda citas en las proximas ferias de vacunacion</h3>
+    <h2 class="pb-2 border-bottom">Centro del restaurante:</h2>
+    <h3>Revisa nuestra tabla y reservas para mas veneficios del cliente</h3>
   <body>
 
-  <table class="table table-success table-striped">
-  <caption>Tabla de vacunas y dosis:</caption>
+  <table class="table table-responsive table-bordered">
+  <caption class="navbar navbar-dark bg-primary">Tabla de platos tipicos:</caption>
   <thead>
-    <tr>
+    <tr class="table-success">
       <th scope="col">#</th>
-      <th scope="col">Vacunas</th>
-      <th scope="col">Dosis</th>
-      <th scope="col">Edades</th>
-      <th scope="col">Valor</th>
-      <th scope="col">Disponibilidad</th>
+      <th scope="col">COMIDAS TIPICAS </th>
+      <th scope="col">Plato</th>
+      <th scope="col">Numero de menu</th>
+      <th scope="col">Costo</th>
+      <th scope="col">Reservas</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="table-success">
       <th scope="row">1</th>
-      <td>Parvoviruz</td>
-      <td>1 cada año</td>
-      <td>8 a 18 semanas</td>
-      <td>$8.00</td>
-      <td>2022/09/25</td>
+      <td>Chuchucaras</td>
+      <td> pequeño</td>
+      <td>6</td>
+      <td>$5.00</td>
+      <td>2022/11/28</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">2</th>
-      <td>Distemper</td>
-      <td>1 cada año</td>
-      <td>8 a 16 semanas</td>
-      <td>$9.00</td>
-      <td>2022/09/10</td>
+      <td>llapingachos</td>
+      <td>mediano</td>
+      <td>3</td>
+      <td>$2.00</td>
+      <td>2022/11/30</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">3</th>
-      <td>Rabia</td>
-      <td>al año(obligatoria)</td>
-      <td>14 semanas</td>
-      <td>gratis</td>
-      <td>2022/09/10</td>
+      <td>Encebollado</td>
+      <td>Mixto</td>
+      <td>1</td>
+      <td>$2.00</td>
+      <td>2022/12/10</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">4</th>
-      <td>Polivalente</td>
-      <td>unica dosis</td>
-      <td>2 a 3 semanas</td>
+      <td>ceviche</td>
+      <td>pulpo</td>
+      <td>9</td>
       <td>5.00$</td>
-      <td>Disponible</td>
+      <td>Reservado</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">5</th>
-      <td>Refuerzos</td>
-      <td>al año(obligatorias)</td>
-      <td>14 semanas</td>
-      <td>25.00$</td>
-      <td>2022/09/10</td>
+      <td>Seco de pollo</td>
+      <td>Normal</td>
+      <td>1</td>
+      <td>2.00$</td>
+      <td>2022/12/11</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">6</th>
-      <td>Triple virica</td>
-      <td>unica dosis</td>
-      <td>2 a 4 semanas</td>
-      <td>16.00$</td>
-      <td>Disponible</td>
+      <td>Tripa mishqui</td>
+      <td>Mixto</td>
+      <td>2</td>
+      <td>3.00$</td>
+      <td>Reservado</td>
     </tr>
-    <tr>
+    <tr class="table-success">
       <th scope="row">7</th>
-      <td>PIF</td>
-      <td>al año</td>
-      <td>22 semanas</td>
+      <td>Asado de cordero</td>
+      <td>Grande</td>
+      <td>10</td>
       <td>12.00$</td>
       <td>Agotada</td>
     </tr>
